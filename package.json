@@ -4,7 +4,7 @@
   "description": "simple app for testing",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "fernando pineda <fernandojpt1203@gmail.com> (www.ferjpi.com)",
   "license": "ISC",
